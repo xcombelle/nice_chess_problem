@@ -5,3 +5,4 @@
 3. https://lichess.org/training/qxi3X
 4. https://lichess.org/training/vHgC5
 5. https://lichess.org/training/JtNwP
+6. https://lichess.org/training/9x5Ug
