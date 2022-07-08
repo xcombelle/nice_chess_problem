@@ -12,3 +12,4 @@
 10. https://lichess.org/training/tJ95Q
 11. https://lichess.org/training/kN3oB
 12. https://lichess.org/training/LvRz1
+13. https://lichess.org/training/IPuxB
