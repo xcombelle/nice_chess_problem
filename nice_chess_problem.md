@@ -8,3 +8,4 @@
 6. https://lichess.org/training/9x5Ug
 7. https://lichess.org/training/gKUe6
 8. https://lichess.org/training/LMkXK
+9. https://lichess.org/training/6zQlz
