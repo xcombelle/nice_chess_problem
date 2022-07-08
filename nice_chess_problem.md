@@ -7,3 +7,4 @@
 5. https://lichess.org/training/JtNwP
 6. https://lichess.org/training/9x5Ug
 7. https://lichess.org/training/gKUe6
+8. https://lichess.org/training/LMkXK
