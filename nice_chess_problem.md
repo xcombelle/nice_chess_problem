@@ -14,3 +14,4 @@
 12. https://lichess.org/training/LvRz1
 13. https://lichess.org/training/IPuxB
 14. https://lichess.org/training/UKFHH
+15. https://lichess.org/training/8cq8A
