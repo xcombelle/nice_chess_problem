@@ -18,3 +18,4 @@
 16. https://lichess.org/training/mpTMo
 17. https://lichess.org/training/nTzNJ
 18. https://lichess.org/training/5oUwm
+19. https://lichess.org/training/npyrW
