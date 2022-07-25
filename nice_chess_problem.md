@@ -20,3 +20,4 @@
 18. https://lichess.org/training/5oUwm
 19. https://lichess.org/training/npyrW
 20. https://lichess.org/training/yhKxs
+21. https://lichess.org/training/9EaOo
