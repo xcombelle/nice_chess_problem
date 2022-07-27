@@ -22,3 +22,4 @@
 20. https://lichess.org/training/yhKxs
 21. https://lichess.org/training/9EaOo
 22. https://lichess.org/training/ZBT2e
+23. https://lichess.org/training/KvWE1
