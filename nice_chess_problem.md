@@ -25,3 +25,4 @@
 23. https://lichess.org/training/KvWE1
 24. https://lichess.org/training/5oXgt
 25. https://lichess.org/training/vFCZR
+26. https://lichess.org/training/ZQv4t
